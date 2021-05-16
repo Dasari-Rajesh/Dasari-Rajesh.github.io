@@ -1,17 +1,17 @@
 email:
-  id: 'jessica.reel@outlook.com'
+  id: 'rdasari245@gmail.com.com'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
 facebook:
-  id:
+  id: 'rajesh.dasari.3150'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
   fa-icon: 'fa-facebook-square'
 
 twitter:
-  id:
+  id: 'Dasari_Rajesh_'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
   fa-icon: 'fa-twitter-square'
@@ -23,19 +23,19 @@ googleplus:
   fa-icon: 'fa-google-plus-square'
 
 github:
-  id: 'jreel'
+  id: 'Dasari-Rajesh'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
 linkedin:
-  id: 'thereeljess'
+  id: 
   href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
 
 instagram:
-  id:
+  id:  'rajesh_63_63'
   href: 'https://instagram.com/'
   title: 'Instagram'
   fa-icon: 'fa-instagram'
