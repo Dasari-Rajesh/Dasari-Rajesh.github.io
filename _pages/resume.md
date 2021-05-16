@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume/CV for Jessica Reel
+title: Resume/CV for Rajesh Dasari
 short_title: Resume/CV
 description: >
   Resume/CV for Dasari.Rajesh
