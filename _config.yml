@@ -24,8 +24,8 @@ name:  "Dasari Rajesh"  # your name or organization name
 email: "190050030@iitb.ac.in"
 webaddress: "http://dasari-rajesh.github.io"  # to avoid messing with url or baseurl
 
-tagline: "jreel.github.io"
-tagline: "dasari-rajesh.github.io"
+#tWagline: "jreel.github.io"
+tagline: "00000110"
 description: > # this means to ignore newlines until "baseurl:"
    The personal website and development portfolio of Rajesh
 
@@ -61,8 +61,8 @@ url:  # pretty sure this is auto-set during build, so I'd leave it alone if I we
 google_analytics: # add your UA id here
 
 # Social media
-twitter_username:
-github_username:  dasari-rajesh
+#twitter_username: 
+#github_username:  dasari-rajesh
 twitter_username: Dasari_Rajesh_
 github_username:  Dasari-Rajesh
 
