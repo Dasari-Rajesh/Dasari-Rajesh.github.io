@@ -3,8 +3,7 @@ layout: page
 title: Resume/CV for Jessica Reel
 short_title: Resume/CV
 description: >
-  Resume/CV for Jessica Reel: Lifelong hobbyist programmer with a master's degree in organic chemistry and passion for teaching seeks a position in software development,
-  ideally in the field of educational technology or LMS curriculum development.
+  Resume/CV for Dasari.Rajesh
 permalink: /resume/
 custom_css: resume
 ---
@@ -27,7 +26,7 @@ custom_css: resume
 
 <strong>Notify Me</strong>
 
-Instructor : Prof. Amitabha Sanyal | Ongoing Course Project     {Autumn 2020 | IIT Bombay}
+Instructor : Prof. Amitabha Sanyal | Ongoing Course Project  |   Autumn 2020  IIT Bombay
 
 • Worked on an application to create a Centralized Notification System whereby a professor can send
 real-time notifications to the students enrolled utilsing the application
@@ -40,7 +39,7 @@ environment(Google Classroom) which is much needed in this coronavirus crisis
 
 <strong> GIF(Graphics Interchange Format)</strong>
 
-Instructor : Prof. Rushikesh K.Joshi | Course Project    {Spring 2020 | IIT Bombay}
+Instructor : Prof. Rushikesh K.Joshi | Course Project |   Spring 2020  IIT Bombay
 
 • Implemented a C++ class for creation and efficient way of portraying animations using Fltk (Fast Light
 ToolKit), a cross-platform widget library for Graphical User Interfaces
@@ -54,7 +53,7 @@ in a circle with proper contrast between the surroundings and the components.
 • Implemented various beautiful designs using the tools provided by Fltk as a part of this project
 
 <strong>Image Segmentation</strong> 
-Instructor : Prof. Amitabha Sanyal | Course Project   {Autumn 2020 | IIT Bombay}
+Instructor : Prof. Amitabha Sanyal | Course Project  | Autumn 2020  IIT Bombay
 
 • Used Kmeans++ algorithm and python Scipy Library to smoothen high contrast images.
 
@@ -64,7 +63,7 @@ Instructor : Prof. Amitabha Sanyal | Course Project   {Autumn 2020 | IIT Bombay}
 
 <strong>Levitt’s Matric</strong>
 
-Instructor : Prof. Amitabha Sanyal | Course Project    {Autumn 2020 | IIT Bombay}
+Instructor : Prof. Amitabha Sanyal | Course Project  |  Autumn 2020  IIT Bombay
 
 • Used requests module of python to fetch India’s COVID-19 CSV files from a link.
 
