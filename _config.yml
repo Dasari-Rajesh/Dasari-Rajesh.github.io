@@ -19,10 +19,16 @@ title: "jreel"  # title of your website
 name:  "Jessica Reel"  # your name or organization name
 email: "jessica.reel@outlook.com"
 webaddress: "http://jreel.github.io"  # to avoid messing with url or baseurl
+title: "Dasari Rajesh"  # title of your website
+name:  "Dasari Rajesh"  # your name or organization name
+email: "190050030@iitb.ac.in"
+webaddress: "http://dasari-rajesh.github.io"  # to avoid messing with url or baseurl
 
 tagline: "jreel.github.io"
+tagline: "dasari-rajesh.github.io"
 description: > # this means to ignore newlines until "baseurl:"
   The personal website and development portfolio of Jessica Reel
+  The personal website and development portfolio of Rajesh
 
 
 # There is much confusion around the use of the settings for url and baseurl.
@@ -50,6 +56,7 @@ url:  # pretty sure this is auto-set during build, so I'd leave it alone if I we
 # Disqus settings for comments
 disqus:
    shortname: jreel-github-io  # see https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+   shortname: Dasari-Rajesh-github-io  # see https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # Google analytics
 google_analytics: # add your UA id here
@@ -57,6 +64,8 @@ google_analytics: # add your UA id here
 # Social media
 twitter_username:
 github_username:  jreel
+twitter_username: Dasari_Rajesh_
+github_username:  Dasari-Rajesh
 
 
 
