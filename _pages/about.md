@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the personal website of Jessica Reel, hosted at [jreel.github.io](http://jreel.github.io).
-
-This website, like many other things in life, is a Work-In-Progress. *(So many ideas, so little time!)*
-
-This site is built using [Jekyll](http://jekyllrb.com), with a layout based on the [Hyde theme](https://github.com/poole/hyde) by [@mdo](https://twitter.com/mdo).
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIIT_Bombay&psig=AOvVaw3GUrIPB5FmmcIrPHaMLIDz&ust=1621328638601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD6l_-t0PACFQAAAAAdAAAAABAD" alt="Girl in a jacket" style="width:500px;height:600px;">
 
 ■
