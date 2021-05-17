@@ -9,7 +9,7 @@ custom_css: resume
 ---
 - GitHub: <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}">{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}</a>
 
-[Drve link ]{https://drive.google.com/drive/folders/1DK0-7FVchtsCzLRdWdFKFSg1AgbQQ1DI?usp=sharing}
+- [drive link](https://drive.google.com/drive/folders/1DK0-7FVchtsCzLRdWdFKFSg1AgbQQ1DI?usp=sharing)
 
 # One Page Resume 
 
