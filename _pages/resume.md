@@ -192,6 +192,8 @@ Graphics and Drawing
 
 <strong>Extracurricular Activities</strong>
 
+## Extracurricular Activities
+
 • Completeed one year rigorous physical training in 2 Maharastra Engineering Regiment National Cadet
 Corps at IIT Bombay     (2019-2020)
 
