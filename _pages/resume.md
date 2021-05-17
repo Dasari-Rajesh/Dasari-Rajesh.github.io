@@ -70,7 +70,7 @@ Instructor : Prof. Amitabha Sanyal | Course Project  |  Autumn 2020  IIT Bombay
 
 • Used this plot to find the approximate number of days by which pandemic gets to end.
 
-<strong>Extracurricular Activities</strong>
+## Extracurricular Activities
 
 • Completeed one year rigorous physical training in 2 Maharastra Engineering Regiment National Cadet
 Corps at IIT Bombay     (2019-2020)
@@ -91,7 +91,7 @@ Aeromodellers Club IITB.The plane had a form body with servo motors for wing con
 (2019)
 
 
-#Two Page Resume(Tech)
+# Two Page Resume(Tech)
 
 ## Key Projects
 
@@ -166,17 +166,17 @@ word key in Racket language by implementing the freaquency based ETAI strategy a
 
 ## Courses Undertaken
 
-Computer Science | Data Structures and Algorithms , Software Systems Lab , Discrete Structures, Computer Programming and Utilisation , Abstractions and Paradigms for Programming , Digital Logic Design* , Digital Logic Design
+<strong>Computer Science</strong> : Data Structures and Algorithms , Software Systems Lab , Discrete Structures, Computer Programming and Utilisation , Abstractions and Paradigms for Programming , Digital Logic Design* , Digital Logic Design
 Lab , Design and Analysis of Algorithm , Logic for Computer Science ,
 Computer Networks , Computer Networks Lab
 
-Mathematics and Statistics | Calculus , Linear Algebra , Data Analysis and Interpretation
+<strong>Mathematics and Statistics</strong>  Calculus , Linear Algebra , Data Analysis and Interpretation
 Physics Fluid Mechanics , Quantum Physics and application , Basics of Electricity
 and Magnetism
 
-Labs | Physics, Chemistry, Mechanical Workshop , Engineering Drawing
+<strong> Labs</strong> Physics, Chemistry, Mechanical Workshop , Engineering Drawing
 
-Miscellaneous | Introduction to Electrical and Electronics Circuits , Economics* , Physical
+<strong> Miscellaneous</strong>  Introduction to Electrical and Electronics Circuits , Economics* , Physical
 Chemistry , Biology, Organic and Inorganic Chemistry , Engineering
 Graphics and Drawing
 
