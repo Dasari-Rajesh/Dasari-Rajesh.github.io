@@ -111,7 +111,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 kramdown:
   input: GFM # enable github-flavored markdown
 highlighter:  rouge
-theme: # minima for new installs. leave blank if using custom theme / developing locally
+theme: jekyll-theme-cayman
 lsi:  true  # produces an index for related posts, requires classifier-reborn plugin
 incremental: false
 
